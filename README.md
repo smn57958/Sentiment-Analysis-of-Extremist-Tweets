@@ -57,7 +57,8 @@ Now click on "create" again and it will show your project, click on "publish" an
 Publish the batch and wait until it is fully published
 ```
 ```
-Open workerssandbox.mturk.com and search for your project, most of the times typing in the author/creator will give you your project search.1
+Open workerssandbox.mturk.com and search for your project, 
+most of the times typing in the author/creator will give you your project search.
 ```
 
 ```
