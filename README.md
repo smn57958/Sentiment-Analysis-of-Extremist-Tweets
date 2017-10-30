@@ -71,7 +71,6 @@ Download the resuls file, it will be similar to the one included in project Subm
 
 * [Java](https://www.java.com/en/) - Programming language used to collect tweets and generate tweets.csv
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) - Worker/Requester HITs
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
