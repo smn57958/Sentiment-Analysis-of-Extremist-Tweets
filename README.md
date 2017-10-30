@@ -78,7 +78,7 @@ Download the resuls file, it will be similar to the one included in project Subm
 * **Sohan M. Nipunage** 	- *Collecting,Generating tweets* 				     - [smn57958]	(smn57958@uga.edu)
 * **Dnyanada D. Shirsat** 	- *Figuring Amazon Mechanical turk, designed GUI*	 - [dds69748]	(dds69748@uga.edu)
 * **Niyati Shah** 			- *Helped in generating HITs* 						 - [nhs01063]	(nhs01063@uga.edu)
-* **Sohan M. Nipunage** 	- *Collecting,Generating tweets* 					 - [aa84678]	(aa84678@uga.edu)
+* **Akshay Agashe** 		- *Helped in generating HITs* 					 	 - [aa84678]	(aa84678@uga.edu)
 
 
 ## License
